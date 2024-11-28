@@ -12,7 +12,7 @@ fun main() {
       val b: Int = readln().toInt()
       println("este es el perimetro")
       var numero0 = 2*(a+b)
-      println(numero0)
+      println(2*(a+b))
       println("este es el area")
       var numero1 = a * b
       println(numero1)
