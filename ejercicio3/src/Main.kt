@@ -10,7 +10,7 @@ fun main() {
     println("introduce un numero")
       val a: Int = readln().toInt()
       val b: Int = readln().toInt()
-      println("este es el perimetro")
+      println("este es el perimetro del ejercicio git ")
       var numero0 = 2*(a+b)
       println(numero0)
       println("este es el area")
