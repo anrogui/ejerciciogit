@@ -6,3 +6,13 @@ fun main() {
     println("La circunferencia del círculo es ")
     print(2 * Math.PI * radio)
 }
+fun perimetro(){
+    println("Adjunta la medida del lado en cm")
+    var l: Int = readln().toInt()
+    var perimetro=4*l
+    var area=l*l
+    print("El área del rectángulo es ")
+    print(area)
+    print("El perímetro del rectángulo es ")
+    print(perimetro)
+}
